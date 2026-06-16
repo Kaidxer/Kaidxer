@@ -1,5 +1,5 @@
 # Kaide Emmanuel Brimon
-**Game Developer & Producer**
+**Game Developer & Graphics Programmer**
 
 ---
 
