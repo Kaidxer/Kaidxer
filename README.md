@@ -4,6 +4,6 @@ Game Developer & Producer.
 
 ---
 
-- **STACK:** C++ / GDScript / OpenGL / Godot
+ C++ / GDScript / OpenGL / Godot
 
 ---
