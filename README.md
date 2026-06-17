@@ -1,4 +1,4 @@
-# Kaide Emmanuel Brimon
+# SentryVoid
 **Game Developer & Graphics Programmer**
 
 ---
