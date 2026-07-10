@@ -1,5 +1,5 @@
 # SentryVoid
-**Game Developer & Graphics Programmer**
+**Game Developer and Designer**
 
 ---
 
