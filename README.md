@@ -1,5 +1,5 @@
 # Kaidxer
-**Game Developer and Designer**
+**Loner ass dev**
 
 ---
 
