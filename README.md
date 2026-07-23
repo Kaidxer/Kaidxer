@@ -1,5 +1,5 @@
 <p align="center">
-a mathematical programmer that isn't great at and hates math
+Game Programmer, Designer and Developer
 </p>
 
 <p align="center">
