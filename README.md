@@ -1,5 +1,6 @@
 <p align="center">
 Game Programmer, Designer and Developer
+i also like doing hardware\low level programming on the side :3
 </p>
 
 <p align="center">
