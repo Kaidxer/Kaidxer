@@ -1,5 +1,5 @@
 <p align="center">
-Game Programmer, Designer and Developer
+just a simple and lonely developer
   </p>
   <p align="center">
 i also like doing hardware\low level programming on the side :3
@@ -12,5 +12,5 @@ i also like doing hardware\low level programming on the side :3
 </p>
 
 <p align="center">
-Most of my projects are private due to confidentiality and team development. As a result, my public repositories showcase only a small part of my work.
+projects are private due to testing and confidentiality
 </p>
