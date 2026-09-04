@@ -1,5 +1,5 @@
 <p align="center">
-just a simple and lonely developer
+Former Crytek Programmer
   </p>
   <p align="center">
 i also like doing hardware\low level programming on the side :3
