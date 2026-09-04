@@ -1,5 +1,5 @@
 <p align="center">
-Former Crytek Programmer
+Former Crytek Engine Analyst
   </p>
   <p align="center">
 i also like doing hardware\low level programming on the side :3
