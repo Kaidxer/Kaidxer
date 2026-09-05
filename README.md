@@ -7,7 +7,7 @@ i primarily work on software, mobile and web applications
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=godot,cpp,c,linux,ts,cs,vite,dotnet,cmake,lua,robloxstudio" />
+    <img src="https://skillicons.dev/icons?i=godot,cpp,c,linux,ts,cs,vite,dotnet,cmake,lua,robloxstudio&perline=3" />
   </a>
 </p>
 
