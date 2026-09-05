@@ -1,8 +1,8 @@
 <p align="center">
-Former Crytek Engine Analyst
+Game Engine and Firmware Programmer and Architect
   </p>
   <p align="center">
-i also like doing hardware\low level programming on the side :3
+i primarily work on software, mobile and web applications
 </p>
 
 <p align="center">
