@@ -1,5 +1,6 @@
 <p align="center">
 Game Engine and Firmware Programmer and Architect
+AI/ML Engineering Associate
   </p>
   <p align="center">
 i primarily work on software, mobile and web applications
