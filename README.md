@@ -8,7 +8,7 @@ AI/ML Engineering Associate
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=godot,cpp,c,linux,ts,cs,vite,dotnet,cmake,lua,robloxstudio&perline=5" />
+    <img src="https://skillicons.dev/icons?i=godot,cpp,c,linux,ts,cs,dotnet,lua,robloxstudio&perline=5" />
   </a>
 </p>
 
