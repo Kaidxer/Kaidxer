@@ -1,14 +1,14 @@
 <p align="center">
-Game Engine and Firmware Programmer and Architect
+Game Designer and Minecraft Modder
 
   </p>
   <p align="center">
-AI/ML Engineering Associate
+AI/ML Research Associate
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=godot,cpp,c,linux,ts,cs,dotnet,lua,robloxstudio&perline=5" />
+    <img src="https://skillicons.dev/icons?i=godot,cpp,c,linux,ts,cs,dotnet,lua,robloxstudio,java&perline=5" />
   </a>
 </p>
 
