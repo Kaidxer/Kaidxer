@@ -13,5 +13,5 @@ AI/ML Research Associate
 </p>
 
 <p align="center">
-projects are private due to testing and confidentiality
+projects are private due to confidentiality
 </p>
